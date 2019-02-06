@@ -1,9 +1,9 @@
 [![Build Status](https://travis-ci.org/drklee3/sushii-bot.svg?branch=master)](https://travis-ci.org/drklee3/sushii-bot)
 [![Build Status](https://dev.azure.com/dlee3/dlee3/_apis/build/status/drklee3.sushii-bot)](https://dev.azure.com/dlee3/dlee3/_build/latest?definitionId=1)
 
-# sushii bot
+#  Life
 
-![sushii](assets/sushii.png)
+![Life](assets/sushii.png)
 
 A [Discord](https://discordapp.com) bot written in [Rust](https://www.rust-lang.org/) with [serenity-rs](https://github.com/zeyla/serenity).  Uses a [PostgreSQL](https://www.postgresql.org) database along with [diesel-rs](https://github.com/diesel-rs/diesel) and [r2d2-diesel](https://github.com/diesel-rs/r2d2-diesel).
 
@@ -13,7 +13,7 @@ Disclaimer: sushii was started as a project to learn Rust so there is definitely
 
 ## Features
 
-* Ranking system based on message counts in daily, weekly, monthly, and all time categories
+* Ranking sysushiistem based on message counts in daily, weekly, monthly, and all time categories
 * User 24 hour activity tracker
 * Profile image generation for displaying rank and activity graph (with [sushii-image-server](https://github.com/drklee3/sushii-image-server))
 * sushiiboard (starboard)
